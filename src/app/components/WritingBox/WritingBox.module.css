@@ -1,0 +1,12 @@
+.textfield {
+  width: 100%;
+  resize: none;
+  padding: 1rem;
+  border: none;
+  font-size: 1.125rem;
+  line-height: 1.6;
+}
+
+.textfield:focus {
+  outline: none;
+}
