@@ -1,3 +1,7 @@
+:root {
+  --accent-primary: #1e3163;
+}
+
 *,
 *::after,
 *::before {
